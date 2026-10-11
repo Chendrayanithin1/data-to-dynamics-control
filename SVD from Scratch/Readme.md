@@ -12,7 +12,7 @@ Part of my self-study of *Data-Driven Science and Engineering* (Brunton & Kutz),
 
 ### The data matrix
 
-Each column of $X$ is one snapshot of data — for example, one face image flattened into a vector:
+Each column of $X$ is one snapshot of data, for example, one face image flattened into a vector:
 
 $$
 X = \begin{bmatrix} | & | & & | \\ x_1 & x_2 & \cdots & x_m \\ | & | & & | \end{bmatrix}, \qquad x_k \in \mathbb{R}^n
